@@ -27,9 +27,7 @@ public class Calculador {
 
             escolha = teclado.nextInt();
         }
-        if(escolha == 3){
             System.out.println("Fim! ");
-        }
-    }
 
+    }
 }
