@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculo {
     Scanner leituraTeclado = new Scanner(System.in);
-    
+
     public void funcao(){
         System.out.println("Digite um numero real: ");
         double numeroDigitado = leituraTeclado.nextDouble();
